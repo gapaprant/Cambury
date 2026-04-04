@@ -1,0 +1,10 @@
+# Primeiras_specs — Inventário da Base Original
+
+- spec_002_continuacao_da_arquitetura_e_detalhamento_do_mvp (1).md
+- spec_003_continuacao_da_persistencia_de_contexto_e_orquestracao_agentica (2).md
+- spec_004_continuacao_da_orquestracao_por_voz_e_fluxos_agenticos.md
+- spec_005_continuacao_da_coordenacao_cognitiva_e_entrega_executiva.md
+- spec_006_continuacao_dos_dominios_primarios_e_governanca_de_verificacao.md
+- spec_007_continuacao_da_consolidacao_final_e_governanca_de_entrega.md
+- spec_008_continuacao_do_fechamento_documental_e_pacote_final_de_implementacao.md
+- spec_009_continuacao_da_auditoria_final_e_handoff_de_implementacao.md
