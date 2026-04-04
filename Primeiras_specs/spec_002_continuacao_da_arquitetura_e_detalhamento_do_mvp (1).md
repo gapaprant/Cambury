@@ -1,4 +1,4 @@
-esktop com Electron;
+Desktop com Electron;
 - frontend local em React + TypeScript inicializado e empacotado dentro do shell;
 - backend local em Python executado como processo gerenciado pelo aplicativo;
 - banco SQLite inicial com migrações automáticas;
