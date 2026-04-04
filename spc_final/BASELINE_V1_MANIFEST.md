@@ -21,11 +21,7 @@ canonical_documents:
   - spc_final/conversations.md
   - spc_final/voice.md
   - spc_final/packs-4-to-9.md
-supplementary_documents:
   - spc_final/BASELINE_V1_MANIFEST.md
-  - spc_final/PLANO_FECHAMENTO_GAPS_V1.md
-  - spc_final/cross_spec_issue_log.md
-  - spc_final/cross_spec_resolution_notes.md
 archived_documents:
   - archive/governance-stubs/ (8 arquivos — stubs que contradiziam a camada operacional)
 source_of_truth_precedence:
