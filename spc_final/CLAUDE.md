@@ -90,6 +90,8 @@ giuseppe-executive-assistant/
 8. **Every API endpoint** needs at least 1 test
 9. **LLM calls** must use retry/fallback as defined in `docs/tech-stack.md`
 10. **Never hardcode** API keys, paths, or ports — use config files
+11. **Source of truth precedence:** Em caso de conflito entre documentos, a ordem de precedência é: unified-ddl.sql > state-machines.md > api-contracts.md > coding-packs > glossary.md > qualquer outro arquivo
+12. **Nunca ler archive/** — contém documentos obsoletos que contradizem os operacionais. Nunca criar novos arquivos de estado, contrato ou glossário fora dos canônicos listados em BASELINE_V1_MANIFEST.md.
 
 ## Milestones (implementation order)
 M0 (Doc Freeze) → M1 (Foundation) → M2 (Core Data) → M3 (Context) → M4 (Voice) → M5 (Orchestration) → M6 (Institutional Truth) → M7 (Executive Coordination) → M8 (Domains) → M9 (Governance) → M10 (Monitoring) → M11 (Documents) → M12 (Pilot)
