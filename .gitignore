@@ -1,0 +1,3 @@
+# Proteger contra adição acidental de arquivos fora de spc_final
+# O agente de codificação só deve ler spc_final/
+# reference/ é preservado no git mas não é fonte de implementação
